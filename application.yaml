@@ -2,7 +2,7 @@ server:
   port: 8081
 spring:
   application:
-    name: Config-Default
+    name: Kshitija
 eureka:
   instance:
     prefer-ip-address: true
